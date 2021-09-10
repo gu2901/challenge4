@@ -1,0 +1,17 @@
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/controller/FuncionarioController.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/model/Cargo.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/CoreApplication.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/model/Categoria.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/exception/StorageException.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/service/StorageService.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/repository/LojaDeRoupaRepository.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/configuration/OracleConfiguration.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/controller/ArquivoController.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/model/Funcionario.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/model/LojaDeRoupa.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/service/FileSystemStorageService.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/repository/FuncionarioRepository.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/configuration/StorageProperties.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/exception/ResourceNotFoundException.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/exception/StorageFileNotFoundException.java
+/home/devops/git/spring-crud-oracle/src/main/java/br/com/gallium/core/controller/LojaDeRoupaController.java
