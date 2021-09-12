@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "oracle",
+      "type": "br.com.gallium.core.configuration.OracleConfiguration",
+      "sourceType": "br.com.gallium.core.configuration.OracleConfiguration"
+    },
+    {
+      "name": "storage",
+      "type": "br.com.gallium.core.configuration.StorageProperties",
+      "sourceType": "br.com.gallium.core.configuration.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "description": "Folder location for storing files",
+      "sourceType": "br.com.gallium.core.configuration.StorageProperties",
+      "defaultValue": "upload-dir"
+    }
+  ],
+  "hints": []
+}
